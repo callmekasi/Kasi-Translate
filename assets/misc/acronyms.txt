@@ -58,3 +58,4 @@ bffr = be fucking for real
 ong = on god
 gonna = going to
 tryna = trying to
+jtitiwatm = just testing if this is working at the moment

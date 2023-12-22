@@ -1,6 +1,6 @@
 async function fetchAcronymsList() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/your_username/your_repository/your_branch/acronyms.txt');
+        const response = await fetch('https://raw.githubusercontent.com/callmekasi/Kasi-Translate/main/assets/misc/acronyms.txt');
         const data = await response.text();
         return data;
     } catch (error) {

@@ -61,3 +61,4 @@ tryna = trying to
 afaik = as far as i know
 idgaf = i don't give a fuck
 td = today
+wtf = what the fuck
